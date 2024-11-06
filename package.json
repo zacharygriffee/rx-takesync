@@ -1,6 +1,6 @@
 {
   "name": "rx-takesync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An RxJS operator that emits only the synchronous values from a source observable upon subscription.",
   "main": "index.js",
   "type": "module",
