@@ -1,0 +1,28 @@
+{
+  "name": "rx-takesync",
+  "version": "1.0.0",
+  "description": "An RxJS operator that emits only the synchronous values from a source observable upon subscription.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "rxjs",
+    "observable",
+    "take",
+    "synchronous",
+    "utility",
+    "functional-programming",
+    "streams"
+  ],
+  "devDependencies": {
+    "brittle": "^3.7.0"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  },
+  "author": "Zachary Griffee <zacharygriffee@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/zacharygriffee/rx-takesync#readme"
+}
